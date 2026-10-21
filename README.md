@@ -37,7 +37,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of the implemented user stories:
 
-[Watch the walkthrough video](./assets/walkthrough.mp4)
+[Watch the walkthrough video](./src/assets/walkthrough.mp4)
 
 ## License
 
